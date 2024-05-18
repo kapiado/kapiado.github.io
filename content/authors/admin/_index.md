@@ -38,10 +38,10 @@ education:
   courses:
     - course: B.S. in Industrial Engineering
       institution: California Polytechnic State University, San Luis Obispo
-      year: June 2024
+      year: 2024
     - course: M.S. in Engineering Management
       institution: California Polytechnic State University, San Luis Obispo
-      year: June 2024
+      year: 2024
     - course: Minor in Music
     - course: Minor in Psychology
 
