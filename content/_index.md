@@ -82,9 +82,6 @@ sections:
               * Managing the lab section of the course by conducting live demos of MySQL programming
               * Leading a class of 30 undergraduates through SQL (MySQL) programming labs 3 hours per week
               * Developing lab assignments to aid in student learning and understanding of MySQL
-            # * Analysing
-            # * Modelling
-            # * Deploying
         - title: Compensation Operations Analyst Intern
           company: Adobe
           company_url: 'https://www.adobe.com/'
@@ -102,11 +99,33 @@ sections:
           company_logo: Allegiant_Air_logo
           location: Las Vegas, Nevada
           date_start: '2022-09-15'
-          date_end: '2023-12-08'
+          date_end: '2022-12-08'
           description: |2-
               * Compiled a list of torn down aircraft material from various sources, to monetize through vendor
               * Estimated $13mm+ in serviceable material by CLP and EIPC, to be used for current Airbus fleet
               * Automated utilization reports and spec sheets to reduce manual work by 60% using Excel VBA
+        - title: Manufacturing Engineering Intern
+          company: Thermo Fisher Scientific
+          company_url: 'https://www.thermofisher.com/us/en/home.html'
+          company_logo: Thermo_Fisher_Scientific_logo
+          location: Santa Clara, California
+          date_start: '2022-06-12'
+          date_end: '2022-08-28'
+          description: |2-
+              * Implemented a Kanban system for power plugs and cords to reduce time spent on ECOs by 80%
+              * Analyzed 100+ ECOs related to Q2 shipped projects to find 16% drawing inaccuracy
+              * Designed a process flowchart for the refurb program of TruTorr and TruFluor sensors using Visio
+        - title: Supply Chain Process Engineering Intern
+          company: Walmart
+          company_url: 'https://www.walmart.com/'
+          company_logo: Walmart_logo
+          location: Los Lunas, New Mexico
+          date_start: '2021-06-12'
+          date_end: '2022-08-12'
+          description: |2-
+              * Assessed 200+ weekly clock-ins and usage of 100+ equipment for ideal shift start times in Excel
+              * Increased team productivity by 20% by conducting time studies and failure mode observations
+              * Established an alternate shift schedule to reduce shift overlap by 90%
     design:
       columns: '2'
   - block: accomplishments
