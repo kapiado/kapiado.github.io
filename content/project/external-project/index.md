@@ -18,7 +18,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: uploads/Green_Card_Senior_Project_Report.pdf
 url_code: ''
 url_pdf: ''
 url_slides: ''
