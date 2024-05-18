@@ -66,7 +66,7 @@ sections:
           company: California Polytechnic State University, San Luis Obispo
           company_url: ''
           company_logo: CalPoly_Seal
-          location: California
+          location: San Luis Obispo, California
           date_start: '2023-09-20'
           date_end: '2024-06-15'
           description: |2-
@@ -79,10 +79,15 @@ sections:
           company: Adobe
           company_url: 'https://www.adobe.com/'
           company_logo: Adobe_Corporate_logo
-          location: California
+          location: San Jose, California
           date_start: '2023-06-15'
           date_end: '2023-09-08'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Responsibilities include:
+
+              * Created and maintained process documents to support the Sales Compensation PMO & COE team
+              * Standardized 9 common processes related to timeliness and accuracy of sales reps’ payments
+              * Developed a Power BI dashboard to analyze global sales comp survey results from 1,800 respondents
     design:
       columns: '2'
   - block: accomplishments
