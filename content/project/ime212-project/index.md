@@ -46,7 +46,8 @@ Course: [IME 212: Introduction to Enterprise Analytics](https://catalog.calpoly.
 
 The analysis performed shows how employees' mental health in the workplace correlates with how employers view mental health. These are the following questions addressed:
 - Does an employer providing mental health resources have employees with better mental health? 
-- How does mental health affect work? How important is mental health? 
+- How does mental health affect work? 
+- How important is mental health? 
 - What are the strongest predictors of mental health illness or certain attitudes toward mental health in the workplace? 
 
 **Data**

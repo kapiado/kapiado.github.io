@@ -40,12 +40,31 @@ url_video: ''
 # slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Course: [IME 223: Process Improvement Fundamentals](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0223.%20Process%20Improvement%20Fundamentals) *(Fall 2020)*
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+**About**
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+The process analyzed was preparing and cooking a pizza from scratch. All of the team
+members followed the same recipe to prevent errors in time readings. By using
+the same recipe, we had the same waiting times for the dough rising and pizza baking. The
+only times that differed for each team member was the preparation time. We bought our own ingredients and made sure to use the right measurements according to the recipe.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+**Goal**
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Our goal was to solve the preparation and waiting times while making a pizza. At a glance, we
+can see that it takes time to prepare and bake the pizza. Since everything was made from scratch (assuming that nothing was premade or pre-cut), there was a high chance that the
+preparation time will take longer than the baking time. We cut our toppings since we
+bought them whole. The number of toppings desired determined how long the
+preparation time will be. We made the pizza dough and waited for the dough to rise. These waiting times could not be changed to ensure that the dough has fully risen and the pizza has cooked thoroughly.
+
+**Solution Design**
+
+The process we studied involves all of the tasks that must be completed for the team to
+finish cooking a decent pizza. After collecting data regarding the volume, process flow, cycle
+time, availability, layouts, and ergonomics, we compiled the data and organized it. We created a flow diagram showing a basic kitchen layout, conduct a data time study, a motion
+study, and analyze productivity. Ideally, we found the most inefficient process and provided a solution that will increase the cycle time for each team member to cook their pizza.
+
+**Approach**
+In order for our process to be more efficient, the bottleneck of the operation needs to be removed,
+which can be found in the preparation steps. The approach for completing the project was cooking the pizza in our own homes and recording time trials. We had to buy the ingredients from our local grocery market while practicing safety measures due to COVID-19. Since the project was completed from our own homes, we cooked around those who lived with us, so practicing safe measures due to COVID-19 may not be necessary. These measures included social distancing and wearing face masks. 
+
