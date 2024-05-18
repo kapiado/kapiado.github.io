@@ -15,9 +15,9 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: file
     icon_pack: fab
-    name: Follow
+    name: Report
     url: uploads/Green_Card_Senior_Project_Report.pdf
 url_code: ''
 url_pdf: ''
