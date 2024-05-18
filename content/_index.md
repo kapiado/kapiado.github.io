@@ -70,7 +70,7 @@ sections:
           date_start: '2023-09-20'
           date_end: '2024-06-15'
           description: |2-
-              **[IME 212: Introduction to Enterprise Analytics]**, 6 credit hours 
+              **[IME 212: Introduction to Enterprise Analytics](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0212.%20Introduction%20to%20Enterprise%20Analytics)**, 6 credit hours 
               * *Lab Instructor (Fall 2023, Winter 2024)*
               * Managing the lab section of the course by conducting live demos of Python programming
               * Led a class of 25 undergraduates through Python programming labs 6 hours per week
@@ -96,6 +96,17 @@ sections:
               * Created and maintained process documents to support the Sales Compensation PMO & COE team
               * Standardized 9 common processes related to timeliness and accuracy of sales reps’ payments
               * Developed a Power BI dashboard to analyze global sales comp survey results from 1,800 respondents
+          - title: Fleet Planning Intern
+          company: Allegiant Air
+          company_url: 'https://www.allegiantair.com/'
+          company_logo: Allegiant_Air_logo
+          location: Las Vegas, Nevada
+          date_start: '2022-09-15'
+          date_end: '2023-12-08'
+          description: |2-
+              * Compiled a list of torn down aircraft material from various sources, to monetize through vendor
+              * Estimated $13mm+ in serviceable material by CLP and EIPC, to be used for current Airbus fleet
+              * Automated utilization reports and spec sheets to reduce manual work by 60% using Excel VBA
     design:
       columns: '2'
   - block: accomplishments
