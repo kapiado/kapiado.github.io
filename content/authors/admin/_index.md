@@ -49,15 +49,15 @@ skills:
   - name: Technical
     items:
       - name: Python
-        description: ''
+        description: 'Packages: Folium, Matplotlib, NumPy, Pandas, Scikit-Learn'
         percent: 80
         icon: python
         icon_pack: fab
       - name: Excel
         description: ''
         percent: 80
-        icon: excel
-        icon_pack: far
+        icon: file-excel
+        icon_pack: fas
         # icon: chart-line
         # icon_pack: fas
       - name: R
