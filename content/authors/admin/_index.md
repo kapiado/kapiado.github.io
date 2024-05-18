@@ -51,6 +51,7 @@ skills:
       - name: Python
         description: > 
           'Packages: Folium, Matplotlib, NumPy, Pandas, Scikit-Learn
+          
           IDE: Google Colab, Jupyter Notebook, Spyder'
         percent: 80
         icon: python
