@@ -49,7 +49,9 @@ skills:
   - name: Technical
     items:
       - name: Python
-        description: 'Packages: Folium, Matplotlib, NumPy, Pandas, Scikit-Learn IDE: Google Colab, Jupyter Notebook, Spyder'
+        description: |
+          Packages: Folium, Matplotlib, NumPy, Pandas, Scikit-Learn 
+          IDE: Google Colab, Jupyter Notebook, Spyder
         percent: 80
         icon: python
         icon_pack: fab
@@ -77,7 +79,7 @@ skills:
       - name: Volleyball
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: volleyball
         icon_pack: fas
       - name: Cats
         description: ''
