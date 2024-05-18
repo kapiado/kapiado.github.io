@@ -15,6 +15,14 @@ image:
   focal_point: Smart
 
 links:
+  - icon: file
+    icon_pack: fas
+    name: Report
+    url: uploads/Final Report_Making a Pizza.pdf
+  - icon: excel
+    icon_pack: fab
+    name: Excel
+    url: uploads/Pizza Time Study Data Sheet-2.xlsx
   - icon: twitter
     icon_pack: fab
     name: Follow
