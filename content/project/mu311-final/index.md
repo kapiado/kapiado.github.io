@@ -25,6 +25,7 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 ---
+Course: [MU 311: Introduction to Recording, Synthesis, and Production](https://catalog.calpoly.edu/coursesaz/mu/#:~:text=MU%C2%A0311.%20Introduction%20to%20Recording%2C%20Synthesis%2C%20and%20Production) *(Fall 2023)*
 
 **Artistic Motivations**
 
