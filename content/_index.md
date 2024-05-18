@@ -67,8 +67,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Data Analytics
+          tag: Data Analytics
+        - name: Music
+          tag: Music
         - name: Other
           tag: Demo
     design:

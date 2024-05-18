@@ -5,7 +5,7 @@ summary: |
     Course: [MU 311: Introduction to Recording, Synthesis, and Production](https://catalog.calpoly.edu/coursesaz/mu/#:~:text=MU%C2%A0311.%20Introduction%20to%20Recording%2C%20Synthesis%2C%20and%20Production)
   #An example of linking directly to an external project website using `external_link`.
 tags:
-  - Demo
+  - Music
 date: "2023-10-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
