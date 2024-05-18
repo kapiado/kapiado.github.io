@@ -236,11 +236,11 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle: 'I would love to connect. Please contact me at: ' [kapiado@outlook.com]
+      subtitle: 'I would love to connect. Please contact me at:'
       text: #|-
         #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: kapiado@outlook.com
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
