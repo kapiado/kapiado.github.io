@@ -12,6 +12,10 @@ date: "2023-12-14T00:00:00Z"
 #external_link: https://greencardpredict.streamlit.app/
 
 links:
+  - icon: soundcloud
+    icon_pack: fab
+    name: SoundCloud
+    url: https://soundcloud.com/cal-poly-music-tech-comp/katrina-apiado?in=cal-poly-music-tech-comp/sets/mu311-2024-intro-to-recording
   - icon: file-audio
     icon_pack: fas
     name: .WAV
