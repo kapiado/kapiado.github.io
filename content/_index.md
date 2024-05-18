@@ -83,8 +83,6 @@ sections:
           date_start: '2023-06-15'
           date_end: '2023-09-08'
           description: |2-
-              Responsibilities include:
-
               * Created and maintained process documents to support the Sales Compensation PMO & COE team
               * Standardized 9 common processes related to timeliness and accuracy of sales reps’ payments
               * Developed a Power BI dashboard to analyze global sales comp survey results from 1,800 respondents
