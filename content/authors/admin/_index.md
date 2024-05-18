@@ -25,7 +25,7 @@ organizations:
     url: https://ime.calpoly.edu/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data-driven decision making, process optimization and commitment to applying engineering principles to solve real-world problems.
 
 # Interests to show in About widget
 interests:
