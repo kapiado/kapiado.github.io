@@ -29,9 +29,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Analytics & Business Intelligence
+  - Data-driven Decision Support Systems (DSS)
+  - Process Optimization
 
 # Education to show in About widget
 education:
@@ -53,7 +53,7 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Excel
         description: ''
         percent: 100
         icon: chart-line
@@ -111,5 +111,7 @@ social:
 highlight_name: true
 ---
 
-Katrina Apiado is a current Blended Master's student at California Polytechnic State University, San Luis Obispo. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello 👋 I'm Katrina!
+
+I am a current Blended Master's student at California Polytechnic State University, San Luis Obispo with an expected graduation in June 2024. With a blend of industrial engineering expertise and advanced data analytics skills, I am passionate about leveraging technology and data-driven insights to optimize processes and drive business growth.
 {style="text-align: justify;"}
