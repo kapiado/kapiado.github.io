@@ -65,7 +65,7 @@ sections:
         - title: CEO
           company: GenCoin
           company_url: ''
-          company_logo: org-gc
+          company_logo: CalPoly_Seal.svg.png
           location: California
           date_start: '2021-01-01'
           date_end: ''
