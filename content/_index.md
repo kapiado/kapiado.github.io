@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Teaching Associate
+        - title: Graduate Teaching Associate
           company: California Polytechnic State University, San Luis Obispo
           company_url: ''
           company_logo: CalPoly_Seal
@@ -70,11 +70,21 @@ sections:
           date_start: '2023-09-20'
           date_end: '2024-06-15'
           description: |2-
-              Responsibilities include:
+              **IME 212: Introduction to Enterprise Analytics**, 6 credit hours 
+              * *Lab Instructor (Fall 2023, Winter 2024)*
+              * Managing the lab section of the course by conducting live demos of Python programming
+              * Led a class of 25 undergraduates through Python programming labs 6 hours per week
+              * Developed exercises emulating real-world applications for the course midterm
 
-              * Analysing
-              * Modelling
-              * Deploying
+
+              **IME 312: Data Management and System Design**, 3 credit hours 
+              * *Lab Instructor (Spring 2024)*
+              * Managing the lab section of the course by conducting live demos of MySQL programming
+              * Leading a class of 30 undergraduates through SQL (MySQL) programming labs 3 hours per week
+              * Developing lab assignments to aid in student learning and understanding of MySQL
+            # * Analysing
+            # * Modelling
+            # * Deploying
         - title: Compensation Operations Analyst Intern
           company: Adobe
           company_url: 'https://www.adobe.com/'
