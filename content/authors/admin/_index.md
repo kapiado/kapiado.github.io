@@ -54,19 +54,19 @@ skills:
         icon: python
         icon_pack: fab
       - name: Excel
-        description: ''
+        description: 'Functions: Logical (IF, IFERROR), Aggregate (SUM, AVERAGE), Lookup (INDEX/MATCH, XLOOKUP)'
         percent: 80
         icon: file-excel
         icon_pack: fas
         # icon: chart-line
         # icon_pack: fas
       - name: R
-        description: ''
+        description: 'Packages: tidyverse (dplyr, ggplot2, lubridate, purrr, readr, stringr, tidyr)'
         percent: 40
         icon: r-project
         icon_pack: fab
       - name: SQL
-        description: ''
+        description: 'Data Retrieval and Filtering, Aggregation, Join Operations, Handling Null Values'
         percent: 40
         icon: database
         icon_pack: fas
