@@ -36,12 +36,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Engineering Management
-      institution: California Polytechnic State University, San Luis Obispo
-      year: 2024
     - course: B.S. in Industrial Engineering
       institution: California Polytechnic State University, San Luis Obispo
-      year: 2024
+      year: June 2024
+    - course: M.S. in Engineering Management
+      institution: California Polytechnic State University, San Luis Obispo
+      year: June 2024
+    - course: Minor in Music
+    - course: Minor in Psychology
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -75,15 +77,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Volleyball
-        description: ''
-        percent: 60
-        icon: volleyball
-        icon_pack: fas
-      - name: Cats
-        description: ''
+      - name: Music
+        description: 'Singing, playing instruments (piano, cello)'
         percent: 100
-        icon: cat
+        icon: music
+        icon_pack: fas
+      - name: Volleyball
+        description: 'Position: Defensive Specialist (DS)/Libero'
+        percent: 70
+        icon: volleyball
         icon_pack: fas
       - name: Photography
         description: ''
