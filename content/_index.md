@@ -96,7 +96,7 @@ sections:
               * Created and maintained process documents to support the Sales Compensation PMO & COE team
               * Standardized 9 common processes related to timeliness and accuracy of sales reps’ payments
               * Developed a Power BI dashboard to analyze global sales comp survey results from 1,800 respondents
-          - title: Fleet Planning Intern
+        - title: Fleet Planning Intern
           company: Allegiant Air
           company_url: 'https://www.allegiantair.com/'
           company_logo: Allegiant_Air_logo
