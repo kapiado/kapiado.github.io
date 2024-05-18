@@ -236,7 +236,7 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle: |2-
+      subtitle: |
         I would love to connect. Please contact me at: 
         [kapiado@outlook.com](mailto:kapiado@outlook.com) 
       text: #|-
