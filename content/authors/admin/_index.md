@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student at Cal Poly SLO
+role: Engineering Management Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Cal Poly SLO
+  - name: California Polytechnic State University, San Luis Obispo
     url: https://ime.calpoly.edu/ 
 
 # Short bio (displayed in user profile at end of posts)
@@ -115,7 +115,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Katrina Apiado Resume 5-15-2024.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
