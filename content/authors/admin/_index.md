@@ -57,7 +57,7 @@ skills:
         description: ''
         percent: 80
         icon: excel
-        icon_pack: fab
+        icon_pack: fas
         # icon: chart-line
         # icon_pack: fas
       - name: R
