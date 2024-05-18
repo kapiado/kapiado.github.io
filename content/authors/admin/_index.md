@@ -50,7 +50,7 @@ skills:
     items:
       - name: Python
         description: 
-          'Packages: Folium, Matplotlib, NumPy, Pandas, Scikit-Learn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IDE: Google Colab, Jupyter Notebook, Spyder'
+          'Packages: Folium, Matplotlib, NumPy, Pandas, Scikit-Learn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IDE: Google Colab, Jupyter Notebook, Spyder'
         percent: 80
         icon: python
         icon_pack: fab
