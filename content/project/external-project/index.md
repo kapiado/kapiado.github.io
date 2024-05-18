@@ -13,4 +13,14 @@ image:
   # https://economictimes.indiatimes.com/nri/migrate/green-card-who-is-eligible-and-how-to-apply/articleshow/80008248.cms?from=mdr
   caption: Illustration of a green card
   focal_point: Smart
+
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 ---
