@@ -62,12 +62,12 @@ skills:
         # icon: chart-line
         # icon_pack: fas
       - name: R
-        description: 'Packages: tidyverse (dplyr, ggplot2, lubridate, purrr, readr, stringr, tidyr)'
+        description: 'Packages: tidyverse (dplyr, ggplot2, lubridate, purrr, readr, stringr, tidyr) &nbsp; IDE: RStudio'
         percent: 40
         icon: r-project
         icon_pack: fab
       - name: SQL
-        description: 'Data Retrieval and Filtering, Aggregation, Join Operations, Handling Null Values'
+        description: 'Functions: Data Retrieval and Filtering, Aggregation, Join Operations, Handling Null Values &nbsp; IDE: MySQL'
         percent: 40
         icon: database
         icon_pack: fas
