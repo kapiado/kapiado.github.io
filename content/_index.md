@@ -73,8 +73,9 @@ sections:
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-      view: showcase
+      columns: '1'
+      # https://docs.hugoblox.com/getting-started/page-builder/
+      view: masonry
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: experience
