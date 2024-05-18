@@ -70,14 +70,14 @@ sections:
           date_start: '2023-09-20'
           date_end: '2024-06-15'
           description: |2-
-              **IME 212: Introduction to Enterprise Analytics**, 6 credit hours 
+              **[IME 212: Introduction to Enterprise Analytics]**, 6 credit hours 
               * *Lab Instructor (Fall 2023, Winter 2024)*
               * Managing the lab section of the course by conducting live demos of Python programming
               * Led a class of 25 undergraduates through Python programming labs 6 hours per week
               * Developed exercises emulating real-world applications for the course midterm
 
 
-              **IME 312: Data Management and System Design**, 3 credit hours 
+              **[IME 312: Data Management and System Design](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0312.%20Data%20Management%20and%20System%20Design)**, 3 credit hours 
               * *Lab Instructor (Spring 2024)*
               * Managing the lab section of the course by conducting live demos of MySQL programming
               * Leading a class of 30 undergraduates through SQL (MySQL) programming labs 3 hours per week
