@@ -65,6 +65,7 @@ time, availability, layouts, and ergonomics, we compiled the data and organized 
 study, and analyze productivity. Ideally, we found the most inefficient process and provided a solution that will increase the cycle time for each team member to cook their pizza.
 
 **Approach**
+
 In order for our process to be more efficient, the bottleneck of the operation needs to be removed,
 which can be found in the preparation steps. The approach for completing the project was cooking the pizza in our own homes and recording time trials. We had to buy the ingredients from our local grocery market while practicing safety measures due to COVID-19. Since the project was completed from our own homes, we cooked around those who lived with us, so practicing safe measures due to COVID-19 may not be necessary. These measures included social distancing and wearing face masks. 
 
