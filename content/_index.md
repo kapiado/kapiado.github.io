@@ -236,7 +236,7 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle: 'I would love to connect. Please contact me at: '[kapiado@outlook.com](mailto:kapiado@outlook.com)
+      subtitle: 'I would love to connect. Please contact me at: ' [kapiado@outlook.com]
       text: #|-
         #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
@@ -284,3 +284,6 @@ sections:
     design:
       columns: '2'
 ---
+
+
+[kapiado@outlook.com]: mailto:kapiado@outlook.com
