@@ -16,7 +16,7 @@ image:
 
 links:
   - icon: file
-    icon_pack: fab
+    icon_pack: fas
     name: Report
     url: uploads/Green_Card_Senior_Project_Report.pdf
 url_code: ''
