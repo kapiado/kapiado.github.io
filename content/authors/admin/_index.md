@@ -62,7 +62,7 @@ skills:
         # icon: chart-line
         # icon_pack: fas
       - name: R
-        description: 'Packages: tidyverse (dplyr, ggplot2, lubridate, purrr, readr, stringr, tidyr) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IDE: RStudio'
+        description: 'Packages: tidyverse (dplyr, ggplot2, lubridate, purrr, readr, stringr, tidyr) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IDE: RStudio'
         percent: 40
         icon: r-project
         icon_pack: fab
