@@ -69,6 +69,8 @@ sections:
           tag: '*'
         - name: Data Analytics
           tag: Data Analytics
+        - name: Process Improvement
+          tag: Process Improvement
         - name: Music
           tag: Music
         - name: Other

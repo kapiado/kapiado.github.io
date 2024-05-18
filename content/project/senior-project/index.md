@@ -3,7 +3,7 @@ title: Predicting Wait Times for Green Card Applicants
 summary: Senior Project in descriptive and predictive analytics regarding U.S. permanent residency. Deployed on Streamlit.
   #An example of linking directly to an external project website using `external_link`.
 tags:
-  - Demo
+  - Data Analytics
 date: "2023-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
