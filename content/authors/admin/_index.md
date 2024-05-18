@@ -55,9 +55,14 @@ skills:
         icon_pack: fab
       - name: Excel
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
+      - name: R
+        description: ''
+        percent: 40
+        icon: r-lang
+        icon_pack: fab
       - name: SQL
         description: ''
         percent: 40
@@ -67,7 +72,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Volleyball
         description: ''
         percent: 60
         icon: person-hiking
@@ -113,5 +118,5 @@ highlight_name: true
 
 Hello 👋 I'm Katrina!
 
-I am a current Blended Master's student at California Polytechnic State University, San Luis Obispo with an expected graduation in June 2024. With a blend of industrial engineering expertise and advanced data analytics skills, I am passionate about leveraging technology and data-driven insights to optimize processes and drive business growth.
+I am a current Blended Master's student at California Polytechnic State University, San Luis Obispo with an expected graduation in June 2024. With a blend of industrial engineering expertise and advanced data analytics skills, I am passionate about leveraging technology and data-driven insights to optimize processes and drive business growth. My research interests include exploring innovative applications of data analytics and machine learning in industrial engineering, with a focus on optimizing operational processes, enhancing decision-making capabilities, and addressing real-world challenges in areas such as immigration analytics and sustainable engineering practices.
 {style="text-align: justify;"}
