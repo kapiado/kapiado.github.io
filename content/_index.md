@@ -65,7 +65,7 @@ sections:
         - title: CEO
           company: GenCoin
           company_url: ''
-          company_logo: 'Images/screenshot.png'
+          company_logo: org-k
           location: California
           date_start: '2021-01-01'
           date_end: ''
