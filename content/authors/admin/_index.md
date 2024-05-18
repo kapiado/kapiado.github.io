@@ -22,7 +22,7 @@ role: Student at Cal Poly SLO
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Cal Poly SLO
-    url: https://www.stanford.edu/
+    url: https://ime.calpoly.edu/ 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -49,9 +49,9 @@ skills:
   - name: Technical
     items:
       - name: Python
-        description: >
-          Packages: Folium, Matplotlib, NumPy, Pandas, Scikit-Learn
-          IDE: Google Colab, Jupyter Notebook, Spyder
+        description: |
+                      Packages: Folium, Matplotlib, NumPy, Pandas, Scikit-Learn
+                      IDE: Google Colab, Jupyter Notebook, Spyder
         percent: 80
         icon: python
         icon_pack: fab
