@@ -15,7 +15,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: file
+  - icon: file-pdf
     icon_pack: fas
     name: Report
     url: uploads/IME 372 Final Report.pdf

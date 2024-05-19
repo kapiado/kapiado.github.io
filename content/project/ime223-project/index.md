@@ -15,7 +15,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: file
+  - icon: file-pdf
     icon_pack: fas
     name: Report
     url: uploads/Final Report_Making a Pizza.pdf

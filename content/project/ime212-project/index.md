@@ -15,7 +15,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: file
+  - icon: file-pdf
     icon_pack: fas
     name: A3 Report
     url: uploads/IME212_Term_Project.pdf

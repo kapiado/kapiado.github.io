@@ -1,28 +1,32 @@
 ---
-title: Homemade Pizza Process Improvement
+title: Scout Coffee Co. Customer Accomodation
 summary: |
   Term project for improving the homemade pizza baking process during the COVID-19 pandemic. 
-  Course: [IME 223: Process Improvement Fundamentals](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0223.%20Process%20Improvement%20Fundamentals)
+  Course: [IME 430: Quality Engineering](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0430.%20Quality%20Engineering)
 tags:
   - Process Improvement
-date: '2020-11-22T00:00:00Z'
+date: '2021-12-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Logo of fictional company Avocado Pizza Co.
+  caption: Image from [Scout Coffee Co.](https://scoutcoffeeco.com/pages/foothill)
   focal_point: Smart
 
 links:
-  - icon: file
+  - icon: file-pdf
     icon_pack: fas
     name: Report
-    url: uploads/Final Report_Making a Pizza.pdf
-  - icon: file-excel
+    url: uploads/IME 430 DMAIC Project Final Report_ Scout Coffee.pdf
+  - icon: file-powerpoint
     icon_pack: fas
-    name: Excel
-    url: uploads/Pizza Time Study Data Sheet-2.xlsx
+    name: Presentation
+    url: uploads/IME 430 Scout Final Presentation.pdf
+  - icon: file-invoice
+    icon_pack: fas
+    name: Project Charter
+    url: uploads/IME 430 Project Charter.pdf
   # - icon: twitter
   #   icon_pack: fab
   #   name: Follow
@@ -40,7 +44,7 @@ url_video: ''
 # slides: example
 ---
 
-Course: [IME 223: Process Improvement Fundamentals](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0223.%20Process%20Improvement%20Fundamentals) *(Fall 2020)*
+Course: [IME 430: Quality Engineering](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0430.%20Quality%20Engineering) *(Fall 2021)*
 
 **About**
 
