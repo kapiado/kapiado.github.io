@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: modern
-  theme_night: modern
-  font: modern
+  theme_day: light
+  theme_night: dark
+  font: "Roboto"
   font_size: L
 
 # SEO
