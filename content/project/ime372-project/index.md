@@ -1,7 +1,7 @@
 ---
 title: Predicting Likelihood of Obtaining H-1B Visa
 summary: |
-  Term project using data cleaning and predictive modeling based on U.S. Department of Labor data. 
+  Term project using data cleaning and predictive modeling based on U.S. Department of Labor data. A classification problem.
   Course: [IME 372: Applications of Enterprise Analytics](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0372.%20Applications%20of%20Enterprise%20Analytics)
 tags:
   - Data Analytics
@@ -56,6 +56,11 @@ to analyze the likelihood of an international applicant in receiving an H1-B vis
 descriptive features like country of birth, employer, etc.
 
 In order to see the success rate of obtaining a visa, the objective of this project will be to create a model that will be able to predict what critically affects the application process for an H1-B visa based on different types of features.
+
+**Classification Models**
+- Decision Tree
+- AdaBoost
+- Random Forest
 
 **Data**
 
