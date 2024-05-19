@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Katrina Apiado # Website name
-baseURL: 'https://www.kapiado.com/' # Website URL
+baseURL: 'https://kapiado.github.io/' # Website URL
 
 ############################
 ## LANGUAGE

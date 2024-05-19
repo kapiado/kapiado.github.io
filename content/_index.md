@@ -139,7 +139,7 @@ sections:
         - title: Manufacturing Engineering Intern
           company: Thermo Fisher Scientific
           company_url: 'https://www.thermofisher.com/us/en/home.html'
-          company_logo: Thermo_Fisher_Scientific_logo
+          company_logo: Thermo_Fisher_Scientific_Logo
           location: Santa Clara, California
           date_start: '2022-06-12'
           date_end: '2022-08-28'
