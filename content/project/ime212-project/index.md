@@ -11,7 +11,7 @@ date: '2021-03-12T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo from [Victorian and Tasmanian PHN Alliance](https://vtphna.org.au/2020/06/26/tips-and-strategies-in-using-technology-for-mental-health-consultations/)
+  caption: Image from [Victorian and Tasmanian PHN Alliance](https://vtphna.org.au/2020/06/26/tips-and-strategies-in-using-technology-for-mental-health-consultations/)
   focal_point: Smart
 
 links:
