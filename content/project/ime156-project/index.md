@@ -15,18 +15,14 @@ image:
   focal_point: Smart
 
 links:
+  - icon: youtube
+    icon_pack: fab
+    name: Demo
+    url: https://www.youtube.com/watch?v=dVnbbcdRSAo
   - icon: file-pdf
     icon_pack: fas
-    name: Report
-    url: uploads/IME 430 DMAIC Project Final Report_ Scout Coffee.pdf
-  - icon: file-powerpoint
-    icon_pack: fas
-    name: Presentation
-    url: uploads/IME 430 Scout Final Presentation.pdf
-  - icon: file-invoice
-    icon_pack: fas
-    name: Project Charter
-    url: uploads/IME 430 Project Charter.pdf
+    name: Schematic & PCB Layout
+    url: EAGLE Assignment - Katrina Apiado.pdf
   # - icon: twitter
   #   icon_pack: fab
   #   name: Follow
@@ -67,3 +63,7 @@ This was the first quarter affected by the COVID-19 pandemic, which prompted stu
 ![Custom Chassis](custom-chassis-collage.png)
 
 For the chassis box, my father helped me build a wooden box with wood planks found in my backyard. My father had a compound miter saw to cut the wood planks and a drill bit with attachments of various sizes to cut holes into the wood. There was a lot of trial and error at first because we wanted to make sure the holes had the correct diameter and precise placement. I'm proud of the fact that we didn't waste material and I had a lot of fun working on this project!
+
+**EAGLE Schematic & PCB Layout Design**
+
+The project includes a PDF document with my schematic, PCB layout design, Schematic Electrical Rule Check (ERC), Layout Design Rule Check (DRC), and the Design for Manufacturability (DFM) report from Bay Area Circuits.
