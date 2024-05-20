@@ -40,7 +40,8 @@ url_video: ''
 # slides: example
 ---
 
-Course: [IME 156: Basic Electronics Manufacturing](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0156.%20Basic%20Electronics%20Manufacturing) *(Spring 2020)*
+**Course:** [IME 156: Basic Electronics Manufacturing](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0156.%20Basic%20Electronics%20Manufacturing) *(Spring 2020)*
+**Instructor:** Eric Paton
 
 **About**
 

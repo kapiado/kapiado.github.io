@@ -44,7 +44,8 @@ url_video: ''
 # slides: example
 ---
 
-Course: [IME 430: Quality Engineering](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0430.%20Quality%20Engineering) *(Fall 2021)*
+**Course:** [IME 430: Quality Engineering](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0430.%20Quality%20Engineering) *(Fall 2021)*
+**Instructor:** Dr. John Pan
 
 **About**
 

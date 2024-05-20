@@ -40,7 +40,8 @@ url_video: ''
 # slides: example
 ---
 
-Course: [IME 372: Applications of Enterprise Analytics](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0372.%20Applications%20of%20Enterprise%20Analytics) *(Spring 2022)*
+**Course:** [IME 372: Applications of Enterprise Analytics](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0372.%20Applications%20of%20Enterprise%20Analytics) *(Spring 2022)*
+**Instructor:** Dr. Puneet Agarwal
 
 **Problem Description**
 

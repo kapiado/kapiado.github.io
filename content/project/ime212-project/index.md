@@ -40,7 +40,8 @@ url_video: ''
 # slides: example
 ---
 
-Course: [IME 212: Introduction to Enterprise Analytics](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0212.%20Introduction%20to%20Enterprise%20Analytics) *(Winter 2021)*
+**Course:** [IME 212: Introduction to Enterprise Analytics](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0212.%20Introduction%20to%20Enterprise%20Analytics) *(Winter 2021)*
+**Instructors:** Dr. Kurt Colvin, Darren Kraker
 
 **About**
 
