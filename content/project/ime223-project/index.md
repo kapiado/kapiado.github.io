@@ -18,7 +18,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Report
-    url: Final Report_Making a Pizza.pdf
+    url: Final Report_ Making a Pizza.pdf
   - icon: file-excel
     icon_pack: fas
     name: Excel
