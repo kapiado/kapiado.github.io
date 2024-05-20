@@ -48,6 +48,8 @@ Course: [IME 156: Basic Electronics Manufacturing](https://catalog.calpoly.edu/c
 
 **About**
 
+![Front & Back of PCB Board](pcb-board-collage.png)
+
 This project was about building a Prism LED project, which included:
 - Developing a PCB layout design using Autodesk EAGLE software
 - Uploading code to Arduino with Arduino IDE software
@@ -62,6 +64,6 @@ This was the first quarter affected by the COVID-19 pandemic, which prompted stu
 
 **Approach**
 
-[Custom Chassis](custom-chassis-collage.png)
+![Custom Chassis](custom-chassis-collage.png)
 
 For the chassis box, my father helped me build a wooden box with wood planks found in my backyard. My father had a compound miter saw to cut the wood planks and a drill bit with attachments of various sizes to cut holes into the wood. There was a lot of trial and error at first because we wanted to make sure the holes had the correct diameter and precise placement. I'm proud of the fact that we didn't waste material and I had a lot of fun working on this project!
