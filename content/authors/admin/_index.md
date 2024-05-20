@@ -29,8 +29,8 @@ bio: My research interests include data-driven decision making, process optimiza
 
 # Interests to show in About widget
 interests:
-  - Data Analytics & Business Intelligence
-  - Data-driven Decision Support Systems (DSS)
+  - Data Analytics
+  - Business Intelligence (BI)
   - Process Optimization
 
 # Education to show in About widget
