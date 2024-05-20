@@ -15,7 +15,7 @@ links:
   - icon: file-audio
     icon_pack: fas
     name: .WAV
-    url: uploads/KApiado_Midterm_WAV.wav
+    url: KApiado_Midterm_WAV.wav
 url_code: ''
 url_pdf: ''
 url_slides: ''

@@ -18,15 +18,15 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Report
-    url: uploads/IME 430 DMAIC Project Final Report_ Scout Coffee.pdf
+    url: IME 430 DMAIC Project Final Report_ Scout Coffee.pdf
   - icon: file-powerpoint
     icon_pack: fas
     name: Presentation
-    url: uploads/IME 430 Scout Final Presentation.pdf
+    url: IME 430 Scout Final Presentation.pdf
   - icon: file-invoice
     icon_pack: fas
     name: Project Charter
-    url: uploads/IME 430 Project Charter.pdf
+    url: IME 430 Project Charter.pdf
   # - icon: twitter
   #   icon_pack: fab
   #   name: Follow

@@ -18,11 +18,11 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Report
-    url: uploads/IME 372 Final Report.pdf
+    url: IME 372 Final Report.pdf
   - icon: file-powerpoint
     icon_pack: fas
     name: Presentation
-    url: uploads/372 Final Presentation.pdf
+    url: 372 Final Presentation.pdf
   - icon: database
     icon_pack: fab
     name: Dataset

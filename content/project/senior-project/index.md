@@ -19,11 +19,11 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Report
-    url: uploads/Green_Card_Senior_Project_Report.pdf
+    url: Green_Card_Senior_Project_Report.pdf
   - icon: person-chalkboard
     icon_pack: fas
     name: Poster
-    url: uploads/Green_Card_Senior_Project_Poster.pdf
+    url: Green_Card_Senior_Project_Poster.pdf
 url_code: ''
 url_pdf: ''
 url_slides: ''

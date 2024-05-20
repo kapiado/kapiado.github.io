@@ -19,7 +19,7 @@ links:
   - icon: file-audio
     icon_pack: fas
     name: .WAV
-    url: uploads/KApiado_Final_WAV.wav
+    url: KApiado_Final_WAV.wav
 url_code: ''
 url_pdf: ''
 url_slides: ''

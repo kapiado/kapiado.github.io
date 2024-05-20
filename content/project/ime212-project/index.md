@@ -18,11 +18,11 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: A3 Report
-    url: uploads/IME212_Term_Project.pdf
+    url: IME212_Term_Project.pdf
   - icon: book 
     icon_pack: fas
     name: .IPYNB
-    url: uploads/Mental Health in Tech (2014).ipynb
+    url: Mental Health in Tech (2014).ipynb
   - icon: kaggle
     icon_pack: fab
     name: Dataset
