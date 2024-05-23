@@ -1,7 +1,7 @@
 ---
 title: Scout Coffee Co. Customer Accomodation
 summary: |
-  Term project for improving the homemade pizza baking process during the COVID-19 pandemic. 
+  Term project for improving the layout of local coffee shop Scout Coffee Co. in San Luis Obispo. 
   Course: [IME 430: Quality Engineering](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0430.%20Quality%20Engineering)
 tags:
   - Process Improvement
