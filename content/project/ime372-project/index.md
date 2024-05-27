@@ -1,7 +1,7 @@
 ---
 title: Predicting Likelihood of Obtaining H-1B Visa
 summary: |
-  Term project using data cleaning and predictive modeling based on U.S. Department of Labor data. A classification problem.
+  Term project using **Python** for data cleaning and predictive modeling based on U.S. Department of Labor data. A classification problem.
   Course: [IME 372: Applications of Enterprise Analytics](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0372.%20Applications%20of%20Enterprise%20Analytics)
 tags:
   - Data Analytics
