@@ -326,7 +326,7 @@ sections:
         provider: netlify
         formspree:
           id:
-        netlify:
+        netlify: kapiado
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
