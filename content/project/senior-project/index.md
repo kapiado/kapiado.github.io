@@ -1,7 +1,7 @@
 ---
 title: Predicting Wait Times for Green Card Applicants
 summary: |
-  Senior Project in descriptive and predictive analytics regarding U.S. permanent residency. Deployed on Streamlit.
+  Senior Project using **Python** to provide descriptive and predictive analytics regarding U.S. permanent residency. Deployed on Streamlit.
   Course: [IME 481-483: Senior Design Project I-III](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0481.%20Senior%20Design%20Project%20I)
 #An example of linking directly to an external project website using `external_link`.
 tags:

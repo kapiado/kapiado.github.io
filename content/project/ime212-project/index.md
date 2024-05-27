@@ -1,7 +1,7 @@
 ---
 title: Mental Health in Tech
 summary: |
-  Term project addressing mental health based on survey data. 
+  Term project using **Python** to address mental health based on survey data. 
   Course: [IME 212: Introduction to Enterprise Analytics](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0212.%20Introduction%20to%20Enterprise%20Analytics)
 tags:
   - Data Analytics
