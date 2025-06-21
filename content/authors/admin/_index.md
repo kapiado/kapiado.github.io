@@ -120,7 +120,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Katrina Apiado Resume 5-1-2024.pdf
+    link: uploads/Katrina_Apiado_Resume_06162025.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -128,5 +128,5 @@ highlight_name: true
 
 Hello 👋 I'm Katrina!
 
-I am a current Blended Master's student at California Polytechnic State University, San Luis Obispo with an expected graduation in June 2024. With a blend of industrial engineering expertise and advanced data analytics skills, I am passionate about leveraging technology and data-driven insights to optimize processes and drive business growth. My research interests include exploring innovative applications of data analytics and machine learning in industrial engineering, with a focus on optimizing operational processes, enhancing decision-making capabilities, and addressing real-world challenges in areas such as immigration analytics and sustainable engineering practices.
+I am currently working at Ball Corporation as Order Fulfillment Specialist II in Kapolei, Hawaii where I lead day-to-day operations with customers and support our warehousing team. I am a recent Blended Master's graduate from California Polytechnic State University, San Luis Obispo. With a blend of industrial engineering expertise and advanced data analytics skills, I am passionate about leveraging technology and data-driven insights to optimize processes and drive business growth. My research interests include exploring innovative applications of data analytics and machine learning in industrial engineering, with a focus on optimizing operational processes, enhancing decision-making capabilities, and addressing real-world challenges in areas such as immigration analytics and sustainable engineering practices.
 {style="text-align: justify;"}
