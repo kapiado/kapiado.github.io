@@ -101,7 +101,7 @@ sections:
           company_logo: Ball_Corporation_logo_2024
           location: Kapolei, Hawaii
           date_start: '2024-12-09'
-          date_end: 'Present'
+          date_end: ''
           description: |2-
               * Leading end-to-end order fulfillment, ensuring customer POs are accurate and delivered OTIF
               * Managing relationships with Hawaii-based canned beverage customers as their primary contact at Hawaii's only can plant
