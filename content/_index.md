@@ -131,8 +131,8 @@ sections:
               * Managing the lab section of the course by conducting live demos of Python programming
               * Led a class of 25 undergraduates through Python programming labs 6 hours per week
               * Developed exercises emulating real-world applications for the course midterm <br>
-              [IME 212 Fall 2023 Course Instructor Evaluation](static/uploads/CENG_IME_Course_Summary_[Katrina]_[Apiado]_[IME-212-02-2238].pdf) <br>
-              [IME 212 Winter 2024 Course Instructor Evaluation](static/uploads/CENG_IME_Course_Summary_[Katrina]_[Apiado]_[IME-212-02-2242].pdf)
+              [IME 212 Fall 2023 Course Instructor Evaluation](static/uploads/"CENG_IME_Course_Summary_[Katrina]_[Apiado]_[IME-212-02-2238].pdf") <br>
+              [IME 212 Winter 2024 Course Instructor Evaluation](static/uploads/"CENG_IME_Course_Summary_[Katrina]_[Apiado]_[IME-212-02-2242].pdf")
 
 
               **[IME 312: Data Management and System Design](https://catalog.calpoly.edu/coursesaz/ime/#:~:text=IME%C2%A0312.%20Data%20Management%20and%20System%20Design)**, 3 credit hours 
@@ -140,7 +140,7 @@ sections:
               * Managing the lab section of the course by conducting live demos of MySQL programming
               * Leading a class of 30 undergraduates through SQL (MySQL) programming labs 3 hours per week
               * Developing lab assignments to aid in student learning and understanding of MySQL <br>
-              [IME 312 Spring 2024 Course Instructor Evaluation](static/uploads/CENG_IME_Course_Summary_[Katrina]_[Apiado]_[IME-312-02-2244].pdf)
+              [IME 312 Spring 2024 Course Instructor Evaluation](static/uploads/"CENG_IME_Course_Summary_[Katrina]_[Apiado]_[IME-312-02-2244].pdf")
         - title: Compensation Operations Analyst Intern
           company: Adobe
           company_url: 'https://www.adobe.com/'
