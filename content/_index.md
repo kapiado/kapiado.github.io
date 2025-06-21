@@ -95,6 +95,29 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Order Fulfillment Specialist II
+          company: Ball Corporation
+          company_url: 'https://www.ball.com/'
+          company_logo: Ball_Corporation_logo_2024
+          location: Kapolei, Hawaii
+          date_start: '2024-12-09'
+          date_end: 'Present'
+          description: |2-
+              * Leading end-to-end order fulfillment, ensuring customer POs are accurate and delivered OTIF
+              * Managing relationships with Hawaii-based canned beverage customers as their primary contact at Hawaii's only can plant
+              * Supporting warehousing and inventory control through FIFO and handling obsolete/slow-moving inventory
+        - title: Vendor Performance Management Associate Specialist 
+          company: Hawaiian Airlines
+          company_url: 'https://www.hawaiianairlines.com/'
+          company_logo: Hawaiian_Airlines-Logo.wine
+          location: Honolulu, Hawaii
+          date_start: '2024-06-24'
+          date_end: '2024-12-06'
+          description: |2-
+              *Affected by Alaska Airlines acquisition*
+              * Managed third-party relationships with vendors for maintenance associated with the Boeing 787-9 fleet
+              * Validataed and processed invoices for Hawaiian Airlines' power-by-the-hour aviation contracts
+              * Analyzed commercial terms of contracts to perform spend analysis and aid strategic decisions
         - title: Graduate Teaching Associate
           company: California Polytechnic State University, San Luis Obispo
           company_url: ''
