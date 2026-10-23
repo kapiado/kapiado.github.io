@@ -95,13 +95,24 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Project Analyst
+          company: Hawaiian Electric
+          company_url: 'https://www.hawaiianelectric.com/'
+          company_logo: Hawaiian_Electric_Industries_Inc_Logo
+          location: Honolulu, Hawaii
+          date_start: '2026-01-26'
+          date_end: ''
+          description: |2-
+              * Managing invoice processing and verification for Hawaiian Electric’s Power Purchase Agreements
+              * Driving process improvement and automation to streamline invoice workflows and improve data accuracy
+              * Collaborating with cross-functional teams to define business requirements and support SOX compliance
         - title: Order Fulfillment Specialist II
           company: Ball Corporation
           company_url: 'https://www.ball.com/'
           company_logo: Ball_Corporation_logo_2024
           location: Kapolei, Hawaii
           date_start: '2024-12-09'
-          date_end: ''
+          date_end: '2026-01-23'
           description: |2-
               * Leading end-to-end order fulfillment, ensuring customer POs are accurate and delivered OTIF
               * Managing relationships with Hawaii-based canned beverage customers as their primary contact at Hawaii's only can plant
