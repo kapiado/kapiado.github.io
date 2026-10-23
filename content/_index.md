@@ -266,7 +266,7 @@ sections:
   #   design:
   #     # Choose a layout view
   #     view: compact
-  #     columns: '2'
+  #     columns: '2'f
   - block: markdown
     content:
       title: Gallery
@@ -370,5 +370,5 @@ sections:
       columns: '2'
 ---
 
-
+<link rel="icon" type="image/png" href="/avocado.png">
 [kapiado@outlook.com]: mailto:kapiado@outlook.com
