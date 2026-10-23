@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Engineering Management Graduate Student
+role: Project Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: California Polytechnic State University, San Luis Obispo
-    url: https://ime.calpoly.edu/ 
+  - name: Hawaiian Electric
+    url: https://www.hawaiianelectric.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data-driven decision making, process optimization and commitment to applying engineering principles to solve real-world problems.
+bio: My interests include data-driven decision making, process optimization and commitment to applying engineering principles to solve real-world problems.
 
 # Interests to show in About widget
 interests:
