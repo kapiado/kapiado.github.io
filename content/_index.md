@@ -370,5 +370,5 @@ sections:
       columns: '2'
 ---
 
-<link rel="icon" type="image/png" href="/avocado.png">
+<link rel="icon" type="image/png" href="assets\media\avocado.png">
 [kapiado@outlook.com]: mailto:kapiado@outlook.com
