@@ -127,7 +127,7 @@ sections:
           description: |2-
               *Affected by Alaska Airlines acquisition*
               * Managed third-party relationships with vendors for maintenance associated with the Boeing 787-9 fleet
-              * Validataed and processed invoices for Hawaiian Airlines' power-by-the-hour aviation contracts
+              * Validated and processed invoices for Hawaiian Airlines' power-by-the-hour aviation contracts
               * Analyzed commercial terms of contracts to perform spend analysis and aid strategic decisions
         - title: Graduate Teaching Associate
           company: California Polytechnic State University, San Luis Obispo
